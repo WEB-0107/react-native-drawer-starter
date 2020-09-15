@@ -1,0 +1,19 @@
+export const COOKIE_GET_REQ = 'COOKIE_GET_REQ';
+export const COOKIE_GET_SUC = 'COOKIE_GET_SUC';
+export const COOKIE_GET_ERR = 'COOKIE_GET_ERR';
+
+export const ITALIAN_GET_REQ = 'ITALIAN_GET_REQ';
+export const ITALIAN_GET_SUC = 'ITALIAN_GET_SUC';
+export const ITALIAN_GET_ERR = 'ITALIAN_GET_ERR';
+
+export const MEXICAN_GET_REQ = 'MEXICAN_GET_REQ';
+export const MEXICAN_GET_SUC = 'MEXICAN_GET_SUC';
+export const MEXICAN_GET_ERR = 'MEXICAN_GET_ERR';
+
+export const PIZZA_GET_REQ = 'PIZZA_GET_REQ';
+export const PIZZA_GET_SUC = 'PIZZA_GET_SUC';
+export const PIZZA_GET_ERR = 'PIZZA_GET_ERR';
+
+export const SMOOTHIE_GET_REQ = 'SMOOTHIE_GET_REQ';
+export const SMOOTHIE_GET_SUC = 'SMOOTHIE_GET_SUC';
+export const SMOOTHIE_GET_ERR = 'SMOOTHIE_GET_ERR';
